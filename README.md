@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱 I’m currently doing B.Tech in Computer Engineering.
 
+📫Student at Vishwakarma Institute of technology,Pune.
+
 📫 How to reach me: ajitniras@gmail.com
 
 <!--
